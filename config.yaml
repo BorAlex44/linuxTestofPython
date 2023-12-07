@@ -1,0 +1,7 @@
+folder_in: /home/boralex/folder_in
+folder_out: /home/boralex/folder_out
+folder_ext: /home/boralex/folder_ext
+folder_ext2: /home/boralex/folder_ext2
+count: 5
+bs: 1M
+type: zip
