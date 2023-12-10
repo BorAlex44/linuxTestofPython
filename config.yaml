@@ -1,0 +1,15 @@
+folder_in: /home/user2/folder_in
+folder_out: /home/user2/folder_out
+folder_ext: /home/user2/folder_ext
+folder_ext2: /home/user2/folder_ext2
+count: 5
+bs: 1M
+type: zip
+host: '0.0.0.0'
+user: 'user2'
+passwd: 'user2'
+local_path: /home/boralex/
+remote_path: /home/user2/
+file: p7zip-full.deb
+port: 22
+dpkg: p7zip-full
